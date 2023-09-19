@@ -1,3 +1,7 @@
-.container {
-    background: url();
+body {
+    background: url('D:/Estudios/JaP/Fase 2/GitHub/Individuales/Actividad-3.3-Portfolio/img/bg-image.jpg') rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
